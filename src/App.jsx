@@ -1,9 +1,9 @@
-import 
+import Rating from './components/rating'
 function App() {
 
   return (
     <>
-      Rating
+     <Rating />
     </>
   )
 }
